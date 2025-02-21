@@ -38,7 +38,7 @@ export default function BlogPublisherTest() {
 
   return (
     <div className="container mx-auto py-8 max-w-3xl">
-      <h1 className="text-4xl font-bold mb-6 text-center">✨ Kid's Blog Generator ✨</h1>
+      <h1 className="text-4xl font-bold mb-6 text-center">✨ Kid&apos;s Blog Generator ✨</h1>
       <p className="text-center mb-8 text-lg">What would you like to learn about today? 🤔</p>
       
       <form onSubmit={handleSubmit} className="space-y-4 mb-8">
